@@ -1,4 +1,4 @@
-# [!Logo Landing Page](https://estheroa.github.io/improved-spork/screenshots/logo-landing-about.png)
+# ![Logo Landing Page](https://estheroa.github.io/improved-spork/screenshots/logo-landing-about.png)
 
 # improved-spork
 A simple company landing page based on a figma design with custom vectors and implemented using HTML and CSS
