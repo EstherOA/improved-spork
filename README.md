@@ -1,4 +1,10 @@
 # improved-spork
-A Coursera Guided Project to create a landing page figma design with custom vectors and implement it using HTML and CSS
+A simple company landing page based on a figma design with custom vectors and implemented using HTML and CSS
 
-View landing page at: https://estheroa.github.io/improved-spork/
+# Demo
+View website at: https://estheroa.github.io/improved-spork/
+
+# Technologies used
+* Figma
+* HTML
+* CSS
