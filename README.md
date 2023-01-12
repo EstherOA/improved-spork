@@ -11,7 +11,7 @@
  
 
 # Demo
-Here is a working live demo: https://estheroa.github.io/improved-spork/
+Here is a working live demo: https://estheroa.github.io/improved-spork/src
 
 # Technologies used
 * Figma
